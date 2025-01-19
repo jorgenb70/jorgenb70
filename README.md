@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jorgen70
+- 👋 Hi, I’m @jorgenb70
 - 👀 I’m interested in compute 3d drawing.
 - 🌱 I’m currently learning opengl.
 - 💞️ I’m looking to collaborate on 3d.
